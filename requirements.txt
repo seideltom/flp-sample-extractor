@@ -1,0 +1,4 @@
+pygame
+customtkinter
+tkinterdnd2
+Pillow
